@@ -1,6 +1,6 @@
 # User Settings | Edit there as per required
 
-title: DOLTEGG
+title: egg
 url: "http://doltegg.github.io"
 baseurl: "/cathax"
 
@@ -43,9 +43,9 @@ about_stub: >
 
 about_footer: true
 
-twitter_username: AnkitSultana
-github_username: yourgithub
-facebook_id: yourusername
+twitter_username: 
+github_username: doltegg
+facebook_id: doltegg
 
 favicon: true
 favicon_location: "images/favicon.ico"
