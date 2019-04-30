@@ -1,6 +1,6 @@
 # User Settings | Edit there as per required
 
-title: accent
+title: DOLTEGG
 url: "http://doltegg.github.io"
 baseurl: "/cathax"
 
@@ -8,21 +8,21 @@ baseurl: "/cathax"
 site_heading: >
     foo <span class="faded">'s blog</span>
 
-email: your@email.com
-author: yourname
+email: doltegg@cathayholdings.com.tw
+author: egg
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    I am not an egg, but egg.
 
 # This will what will show against &copy; in the footer
-copyright: accent
+copyright: egg
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
+    Welcome! This is <span>egg</span>, a mobile friendly theme for Jekyll. The main feature of this
     theme is that you can change the accent color. Refer the
     <a class="underline different-highlight" href="http://ankitsultana.com/accent/documentation.html">
         Documentation
