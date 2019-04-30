@@ -6,7 +6,7 @@ baseurl: "/cathax"
 
 # This will show up at the top of index page
 site_heading: >
-    Cathay<span class="faded">'s report</span>
+    Cathay<span class="faded">'s Report</span>
 
 email: doltegg@cathayholdings.com.tw
 author: egg
