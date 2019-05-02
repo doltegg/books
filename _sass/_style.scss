@@ -5,17 +5,15 @@
 @import "rrssb";
 
 html {
-height: 100%;
-    margin: 5;
+	height: 100%;
+    margin: 0;
     padding: 0;
 }
-p { line-height: 1.9em; }
 body {
     font-family: $font-stack-one;
     height: 100%;
     overflow: auto;
 }
-
 .site-name {
     color: $accent-color;
 }
