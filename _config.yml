@@ -2,7 +2,7 @@
 
 title: egg
 url: "http://doltegg.github.io"
-baseurl: "/cathax"
+baseurl: "/books"
 
 # This will show up at the top of index page
 site_heading: >
