@@ -1,12 +1,12 @@
 # User Settings | Edit there as per required
 
-title: egg's books
+title: egg's Books
 url: "http://doltegg.github.io"
 baseurl: "/book"
 
 # This will show up at the top of index page
 site_heading: >
-    Cathax<span class="faded">'s Report</span>
+    egg<span class="faded">'s Books</span>
 
 email: doltegg@cathayholdings.com.tw
 author: egg
