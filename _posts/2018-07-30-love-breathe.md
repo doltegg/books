@@ -6,7 +6,7 @@ category: 訣
 tags: [書, 佳句]
 ---
 
-![1](https://doltegg.github.io/egg/others/egg/obriens.jpg)
+<img src="https://doltegg.github.io/egg/others/egg/obriens.jpg" style="width:230px"/>
 
 - 一股感恩之情突然從心底而生，他沒做好準備，那股深刻的感受就全湧上他胸膛內心那道強，他得咬緊牙、 深吐氣才能釋放一些壓力。 (p.33)
 
