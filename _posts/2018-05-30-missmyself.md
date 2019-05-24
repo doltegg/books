@@ -5,7 +5,8 @@ date: 2018-05-30
 category: 訣
 tags: [書, 佳句]
 ---
-![1](https://doltegg.github.io/blog/assets/images/2018/miss.jpg)
+
+<img src="https://doltegg.github.io/blog/assets/images/2018/miss.jpg" style="width:230px"/>
 
 - 我認為你的健忘和更年期無關。 (p.53)
 
