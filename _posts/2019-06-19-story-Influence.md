@@ -7,6 +7,7 @@ tags: [書, 佳句]
 ---
 
 <img src="https://doltegg.github.io/blog/assets/images/2019/story2.jpg" style="width:250px"/>
+<img src="https://doltegg.github.io/egg/others/egg/story1.jpg" style="width:250px"/>
 
 - 維基百科說，故事行銷就是透過說故事滿足雙方的慾望與需求，進而交換產品或是價值。 (p.3)
 
