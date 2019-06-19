@@ -184,3 +184,5 @@ mathjax_autoNumber: false
 
 
 - 有了故事，人們會記住你；但有了信念，人們才會認同你。 (p.229)
+
+ $$r=a(1-\sin\theta)$$
