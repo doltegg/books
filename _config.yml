@@ -1,7 +1,7 @@
 # User Settings | Edit there as per required
 
 title: egg's Books
-url: "http://doltegg.github.io"
+url: "http://www.fpat.org.tw/" #"http://doltegg.github.io"
 baseurl: "/book"
 
 # This will show up at the top of index page
