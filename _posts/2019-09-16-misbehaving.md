@@ -332,7 +332,7 @@ mathjax_autoNumber: false
 
 - 
 「新發現察覺異例開始，
-也就是認知到自然會違反主宰常態科學、 根據典範所做的預期。」&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;─湯瑪斯‧孔恩 (p.232)
+也就是認知到自然會違反主宰常態科學、 根據典範所做的預期。」&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;─湯瑪斯‧孔恩 (p.232)
 
 
 - 常有人尋求確認，
