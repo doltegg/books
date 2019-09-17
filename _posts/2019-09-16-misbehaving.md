@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/book/image/misbehaving.jpg" style="width:250px"/>
+<img src="https://doltegg.github.io/book/images/misbehaving.jpg" style="width:250px"/>
 
 
 - 其實，
