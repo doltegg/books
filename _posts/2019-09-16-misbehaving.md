@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 當最後一個音符輕柔落下 (莎莉 ‧ 潔諾娃)
-date: 2019-08-01
+title: 不當行為 (理查 ‧ 塞勒)
+date: 2019-09-16
 category: 訣
 tags: [書, 佳句]
 mathjax: true
