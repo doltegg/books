@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/book/images/economist.png" style="width:230px, height:300px"/>
+<img src="https://doltegg.github.io/book/images/economist.png" style="width:230px;"/>
 
 
 - 那位有錢女友正透過要求小男友自己付帳單，
