@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/book/images/writinghome.jpg" style="width:250px;"/>
+<img src="https://doltegg.github.io/book/images/writinghome.png" style="width:250px;"/>
 
 - 我和陳虹在王府的大街上，突然看到一個上了年紀的男人淚流滿面地從對面走了過來。我們當時驚呆了，王府井是什麼地方？那麼一個熱鬧的場所，突然有一個人旁若無人、淚流滿面地走來。這情景給我們的印象非常深刻。 (p.14)
 
