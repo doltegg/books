@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/book/images/sellbold.jpg" style="width:250px;">
+<img src="https://doltegg.github.io/book/images/sellblood.jpg" style="width:250px;">
 
 - 當小說中人物的命運往前推進時，作家自身的生活也在變化著，這樣的變化會使作家不停地質問自己：正在進行中的敘述是否值得？ (p.33)
 
