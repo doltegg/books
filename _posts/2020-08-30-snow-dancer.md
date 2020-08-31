@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/book/images/snowdancer.jpg" style="width:500px;">
+<img src="https://doltegg.github.io/book/images/snowdancer.jpg" style="width:250px;">
 
 
 - 懸疑推理與科幻想像，是大眾小說的兩個重要類型。人們一邊想要早得知「後來怎麼了」，一邊又希望這趟閱讀之旅不要太快結束。(p.7)
