@@ -11,7 +11,7 @@ mathjax_autoNumber: false
 <img src="https://doltegg.github.io/book/images/9lies.jpg" style="width:250px;">
 
 - 使你陷入麻煩的，不是你不知道的東西，而是你確知、但其實並不正確的東西。<br>
-     <span style="padding-left:200px;">─馬克‧吐溫 (p.7)</span>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;─馬克‧吐溫 (p.7)</span>
 
 - 現今職場充滿了深刻錯誤的制度、流程、工具與假設，抑制了我們每個人在工作中展現自我獨特性的能力。 (p.9)
 
