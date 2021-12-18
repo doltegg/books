@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/book/images/lion-cookie.jpg" style="width:250px;">
+<img src="https://doltegg.github.io/book/images/lion_cookie.jpg" style="width:250px;">
 
 - 所謂幸福，也許就是完全沒有發現自己身處幸福之中，雖然有一些不滿和抱怨，但每天還是可以過著平凡的日子。 (p.6)
  
