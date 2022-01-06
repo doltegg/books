@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 獅子的點心
+title: 獅子的點心 (小川糸)
 date: 2021-12-18
 category: 訣
 tags: [書, 佳句]
