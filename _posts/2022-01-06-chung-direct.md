@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我不在這裡，就在往那裡的路上
+title: 我不在這裡，就在往那裡的路上 (鍾孟宏)
 date: 2022-01-06
 category: 訣
 tags: [書, 佳句]
