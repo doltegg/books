@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 人類簡史 (尤瓦爾‧赫拉利)
-date: 2022-10-22
+date: 2022-10-12
 category: 訣
 tags: [書, 佳句]
 mathjax: true
