@@ -10,11 +10,6 @@ mathjax_autoNumber: false
 
 <img src="https://doltegg.github.io/book/images/remember.jpg" style="width:250px;">
 
-
-- 一生都能好好記憶
-莉莎‧潔諾娃 (Lisa Genova)
-2023.2.28
-
 - 儘管記憶很神奇、很必要、存在於我們生活的所有層面，他絕非完美。 (p.9)
 - 我們的記憶有很多不完整和不準確。特別是對於發生什麼事的記憶，我們很容易遺漏，或者在無意中加油添醋。 (p.9)
 - 多數時候，遺忘其實並不是需要被解決的問題。 (p.11)
