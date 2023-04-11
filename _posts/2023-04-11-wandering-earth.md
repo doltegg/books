@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/book/images/earth.jpg">
+<img src="https://doltegg.github.io/book/images/earth.jpg" style="width: 200px">
 
 ### 黃金原野
 - 它的燃料很快耗盡，「黃金原野」在太空中靜靜地滑行著，在一般人看來，這並未顯示出甚麼災難的跡象，但冷酷的牛頓定律已經給它打上了死亡的魔咒。 (p.19)
