@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 時間移民 (劉慈欣)
+title: 帕金森定律 (陳立之)
 date: 2023-12-06
 category: 訣
 tags: [書, 佳句]
