@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: false
 ---
 
-<img src="https://doltegg.github.io/book/images/urban-renewal.jpg" style="width: 228px; height: 320px;">
+<img src="https://doltegg.github.io/book/images/urbanRenewal.jpg" style="width: 228px; height: 320px;">
 
 - 所謂「公辦都更」並不是一定由政府機關擔任實施者。政府機關除了自行實施外，依法政府機關也可經公開評選程序，委託機構實施都市更新事業。 (p.24)
 - 實施者又是什麼？都市更新過程中與各權利人溝通協調，且依法辦理相關會議、撰寫計畫書等，甚或是後期興建房屋的技術與資金，一般人大多沒有這樣的專業與資金，實施者便負責處理這些事。 (p.25)
