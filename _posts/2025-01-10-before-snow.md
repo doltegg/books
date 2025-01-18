@@ -8,7 +8,7 @@ mathjax: true
 mathjax_autoNumber: true
 ---
 
-<img src="https://doltegg.github.io/book/images/sonwFlower.png" style="width: 228px; height: 320px;">
+<img src="https://doltegg.github.io/book/images/snowFlower.png" style="width: 228px; height: 320px;">
 
 ### 導讀
 
